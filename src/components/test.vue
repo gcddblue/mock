@@ -13,6 +13,7 @@ export default {
   methods: {
     test1 () {
       console.log(this.data1, 'a')
+      console.log(this.data2, 'b')
     }
   }
 }
